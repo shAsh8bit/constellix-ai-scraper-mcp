@@ -1,6 +1,6 @@
 # @constellix/ai-scraper-mcp
 
-A Model Context Protocol (MCP) server for data extraction using AI to extract structured data from web pages. This tool bridges the gap between LLM and web data extraction by providing an intelligent interface for scraping websites.
+A Model Context Protocol (MCP) server to extract structured data from web pages. This tool bridges the gap between LLM and web data extraction by providing an intelligent interface for scraping websites.
 
 ## Live
 Try playground → https://constellix.vercel.app/
