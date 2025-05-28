@@ -132,7 +132,7 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
             },
             query: {
               type: "string",
-              description: ToolsDescription.elementQuery((cssSelector = true)),
+              description: ToolsDescription.elementQuery(true),
             },
           },
           required: ["url", "query"],
